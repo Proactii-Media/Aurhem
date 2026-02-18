@@ -9,8 +9,7 @@ export const HomeView = () => {
       <Hero
         title="Welcome to Aurhem"
         description="Aurhem is a global investment platform driving transformative growth
-            across critical sectors—Infrastructure, Financial Services, Oil &
-            Gas, and Clean Energy. We partner with governments, institutions,
+            across critical sectors—Infrastructure, Financial Services, and Clean Energy. We partner with governments, institutions,
             and communities to develop integrated ecosystems that power economic
             progress and social equity."
         backgroundImages={[
