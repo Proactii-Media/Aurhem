@@ -60,7 +60,7 @@ export const ContactView = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-plum mb-1">Call Us</h3>
-                  <p className="text-[#4A3A4A]">+971 50 594 7030 <br />, +971 50 580 3065</p>
+                  <p className="text-[#4A3A4A]">+971 50 594 7030 <br />+971 50 580 3065</p>
                 </div>
               </div>
 
