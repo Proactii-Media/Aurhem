@@ -22,6 +22,29 @@ Incorporated in the Ras Al Khaimah Economic Zone (RAKEZ), UAE, Aurhem Trading an
           <p className="text-lg text-[#4A3A4A] leading-relaxed">
             We work with clients across select European countries, the United Kingdom, the African continent, India, and additional markets based on demand.
           </p>
+
+<p className="text-lg text-[#4A3A4A] leading-relaxed">
+
+<b>What We Do</b>
+
+1) Construction Equipment & Machinery Trading <br/>
+We source and supply high-quality construction equipment and heavy machinery tailored to project requirements worldwide. <br/><br/>
+
+2) Spare Parts – Equipment, Trucks & Attachments <br/>
+We provide genuine and aftermarket spare parts ensuring operational continuity and reduced downtime.<br/><br/>
+
+3) Commercial Information Services<br/>
+We offer structured commercial insights to support strategic trade and sourcing decisions.<br/><br/>
+
+4) Consultancy <br/>
+– Leadership & Wellbeing Development<br/>
+Focused on lifestyle enhancement, leadership development, and overall personal growth.<br/><br/>
+
+5) General Trading<br/>
+Flexible, client-driven trading solutions across diversified product categories.<br/><br/>
+
+</p>
+          
           <div className="pt-4">
             <Button
               asChild
