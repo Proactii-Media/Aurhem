@@ -56,26 +56,26 @@ const Footer = () => {
               <li className="flex gap-3 text-pewter text-sm">
                 <MapPin className="w-5 h-5 text-teal-green shrink-0 mt-0.5" />
                 <span className="leading-relaxed">
-                  Plot No. 5/12, Road No. 7, Opp Fire Station, GIDC, Sarigam -
-                  396155, Gujarat, India
+                  VUET1016, Compass Building - Al Hulaila, <br />
+                  Al Hulaila Industrial Zone - FZ, Ras Al Khaimah, United Arab Emirates
                 </span>
               </li>
               <li className="flex gap-3 text-pewter text-sm">
                 <Phone className="w-5 h-5 text-teal-green shrink-0" />
                 <a
-                  href="tel:+919825886288"
+                  href="tel:+971 50 594 7030 "
                   className="hover:text-turquoise-blue transition-colors duration-200"
                 >
-                  (+91) 982 588 6288
+                +971 50 594 7030 
                 </a>
               </li>
               <li className="flex gap-3 text-pewter text-sm">
                 <Mail className="w-5 h-5 text-teal-green shrink-0" />
                 <a
-                  href="mailto:info@aurhem.in"
+                  href="mailto:info@aurhem.com"
                   className="hover:text-turquoise-blue transition-colors duration-200"
                 >
-                  info@aurhem.in
+                  info@aurhem.com
                 </a>
               </li>
             </ul>
@@ -87,7 +87,7 @@ const Footer = () => {
               </h4>
               <div className="flex gap-4">
                 <a
-                  href="https://api.whatsapp.com/send/?phone=919825886288&text&type=phone_number&app_absent=0"
+                  href="https://api.whatsapp.com/send/?phone=+971505947030 &text&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-teal-green/10 flex items-center justify-center hover:bg-teal-green hover:scale-110 transition-all duration-300 group"
@@ -102,7 +102,7 @@ const Footer = () => {
                   </svg>
                 </a>
                 <a
-                  href="https://www.linkedin.com/company/gyangroup"
+                  href="#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-teal-green/10 flex items-center justify-center hover:bg-teal-green hover:scale-110 transition-all duration-300 group"
