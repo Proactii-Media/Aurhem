@@ -28,12 +28,7 @@ export const services = [
       "Inclusive financial solutions, investment vehicles, and capital structuring to support large-scale development and SME growth.",
     icon: <Landmark className="w-8 h-8" />,
   },
-  {
-    title: "Oil & Gas",
-    description:
-      "Strategic investments across upstream and midstream segments, focusing on operational efficiency and energy security.",
-    icon: <Waves className="w-8 h-8" />,
-  },
+  
   {
     title: "Energy",
     description:
