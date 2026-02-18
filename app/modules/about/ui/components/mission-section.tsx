@@ -25,7 +25,7 @@ Incorporated in the Ras Al Khaimah Economic Zone (RAKEZ), UAE, Aurhem Trading an
 
 <p className="text-lg text-[#4A3A4A] leading-relaxed">
 
-<b>What We Do</b>
+<b>What We Do</b><br/>
 
 1) Construction Equipment & Machinery Trading <br/>
 We source and supply high-quality construction equipment and heavy machinery tailored to project requirements worldwide. <br/><br/>
