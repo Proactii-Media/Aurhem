@@ -3,7 +3,7 @@
 import PageBanner from "~/components/PageBanner";
 import { MissionSection } from "../components/mission-section";
 import { ValuesSection } from "../components/values-section";
-//import { TeamSection } from "../components/team-section";
+import { TeamSection } from "../components/team-section";
 import { Contact } from "~/modules/home/ui/components/contact";
 
 export const AboutView = () => {
@@ -20,7 +20,7 @@ export const AboutView = () => {
       />
       <MissionSection />
       <ValuesSection />
-      <TeamSection />
+      
       <Contact />
     </main>
   );
