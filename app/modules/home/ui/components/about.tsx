@@ -79,7 +79,7 @@ export const About = () => {
             <p className="text-lg text-[#4A3A4A] leading-relaxed">
               Aurhem is a global investment platform driving transformative
               growth across critical sectors—Infrastructure, Financial Services,
-              Oil & Gas, and Clean Energy. We partner with governments,
+              and Clean Energy. We partner with governments,
               institutions, and communities to develop integrated ecosystems
               that power economic progress and social equity.
             </p>
