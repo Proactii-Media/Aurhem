@@ -14,14 +14,13 @@ export const MissionSection = () => {
             Redefining Infrastructure for a Connected World
           </h2>
           <p className="text-lg text-[#4A3A4A] leading-relaxed">
-            At Aurhem, we don't just invest in assets; we invest in the future.
-            Our mission is to bridge the infrastructure gap in emerging markets
-            by deploying capital into projects that are sustainable, scalable,
-            and socially responsible.
+           Aurhem Trading and Consulting FZ-LLC
+
+Incorporated in the Ras Al Khaimah Economic Zone (RAKEZ), UAE, Aurhem Trading and Consulting FZ-LLC is an international trading and consultancy company delivering reliable solutions across construction equipment, spare parts, commercial intelligence, and professional development.
+
           </p>
           <p className="text-lg text-[#4A3A4A] leading-relaxed">
-            From renewable energy grids to smart logistical hubs, we are laying
-            the groundwork for economies to thrive in the 21st century.
+            We work with clients across select European countries, the United Kingdom, the African continent, India, and additional markets based on demand.
           </p>
           <div className="pt-4">
             <Button
