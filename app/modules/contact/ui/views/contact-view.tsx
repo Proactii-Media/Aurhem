@@ -37,8 +37,8 @@ export const ContactView = () => {
                 <div>
                   <h3 className="font-semibold text-plum mb-1">Our Location</h3>
                   <p className="text-[#4A3A4A] leading-relaxed">
-                    123 Investment Plaza, <br />
-                    Financial District, Dubai, UAE
+                    VUET1016, Compass Building - Al Hulaila,  <br />
+                    Al Hulaila Industrial Zone - FZ, Ras Al Khaimah, United Arab Emirates
                   </p>
                 </div>
               </div>
@@ -50,7 +50,7 @@ export const ContactView = () => {
                 <div>
                   <h3 className="font-semibold text-plum mb-1">Email Us</h3>
                   <p className="text-[#4A3A4A]">info@aurhem.com</p>
-                  <p className="text-[#4A3A4A]">invest@aurhem.com</p>
+                  
                 </div>
               </div>
 
@@ -60,7 +60,7 @@ export const ContactView = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-plum mb-1">Call Us</h3>
-                  <p className="text-[#4A3A4A]">+971 4 123 4567</p>
+                  <p className="text-[#4A3A4A]">+971 50 594 7030 <br />, +971 50 580 3065</p>
                 </div>
               </div>
 
