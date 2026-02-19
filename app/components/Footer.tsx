@@ -21,7 +21,7 @@ const Footer = () => {
             </div>
             <p className="text-pewter leading-relaxed text-sm">
               Aurhem is a global investing vehicle focusing on Infrastructure,
-              Financial Services, Oil and Gas and Energy. Infrastructure
+              Financial Services. Infrastructure
               Development such as Roads, Ports, Telecom, Power, Industrial Parks
               and SEZs, Water, Rural IT Infrastructure, Mass Holdings,
               Townships, Hospitality and Healthcare.
