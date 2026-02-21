@@ -77,11 +77,9 @@ export const About = () => {
             </h2>
 
             <p className="text-lg text-[#4A3A4A] leading-relaxed">
-              Aurhem is a global investment platform driving transformative
-              growth across critical sectors—Infrastructure, Financial Services,
-              and Clean Energy. We partner with governments,
-              institutions, and communities to develop integrated ecosystems
-              that power economic progress and social equity.
+              Aurhem is a free zone company registered with Ras Al Khaimah Economic Zone Government of Ras Al Khaimah (RAKEZ), United Arab Emirates.
+with specific focus on Trading, distribution and management of all kinds of Infrastructure, Mining , Construction, Earth Moving and Energy Equipments.
+Our teams provide an end-to-end trading solution to our customers.
             </p>
 
             <p className="text-lg text-[#4A3A4A] leading-relaxed">
