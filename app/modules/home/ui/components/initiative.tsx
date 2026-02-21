@@ -20,10 +20,10 @@ export const InitiativeSection = () => {
             id="dubai-initiative-heading"
             className="text-3xl md:text-4xl lg:text-5xl font-bold text-plum mb-6"
           >
-            Dubai Impact: Where We’re Building Today
+            Where We’re Building Today
           </h2>
           <p className="text-lg text-[#4A3A4A] max-w-4xl mx-auto leading-relaxed">
-            Our flagship operations are rooted in Dubai — a global hub for
+            Our flagship operations are rooted in UAE — a global hub for
             innovation, energy, and infrastructure. Here, we’re laying the
             groundwork for scalable, sustainable development that will expand
             across the Gulf and beyond.
@@ -41,7 +41,7 @@ export const InitiativeSection = () => {
             />
             <div className="absolute inset-0 bg-linear-to-t from-plum/70 to-transparent flex items-end justify-center p-6">
               <div className="text-white text-center">
-                <MapPin className="inline mr-2" /> Dubai, UAE
+                <MapPin className="inline mr-2" /> Ras Al-Khaimah, UAE
               </div>
             </div>
           </div>
@@ -54,7 +54,7 @@ export const InitiativeSection = () => {
             </div>
 
             <p className="text-[#4A3A4A] leading-relaxed">
-              Based in Dubai, our integrated facility supports infrastructure
+              Based in Ras Al-Khaimah, our integrated facility supports infrastructure
               development, energy solutions, and financial services tailored to
               the region’s rapid growth. From solar-powered logistics hubs to
               smart industrial parks, we’re turning vision into tangible assets.
@@ -65,7 +65,7 @@ export const InitiativeSection = () => {
                 <div className="text-2xl font-bold text-plum">
                   <MapPin className="mb-2" />
                 </div>
-                <div className="text-sm text-[#4A3A4A]">Dubai, UAE</div>
+                <div className="text-sm text-[#4A3A4A]">Ras Al-Khaimah UAE</div>
               </div>
               <div className="bg-white/70 p-4 rounded-lg border border-dusty-rose/30">
                 <div className="text-2xl font-bold text-plum">
