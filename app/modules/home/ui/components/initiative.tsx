@@ -34,7 +34,7 @@ export const InitiativeSection = () => {
           {/* Left: Image / Visual */}
           <div className="relative group rounded-xl overflow-hidden shadow-xl">
             <img
-              src="https://unsplash.com/photos/aerial-photo-of-city-highway-surrounded-by-high-rise-buildings-Fr6zexbmjmc"
+              src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
               alt="industrial facility in Dubai - modern infrastructure, energy plant, logistics hub"
               className="w-full h-80 object-cover transition-transform duration-500 group-hover:scale-105"
               loading="lazy"
