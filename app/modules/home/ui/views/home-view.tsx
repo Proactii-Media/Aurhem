@@ -8,10 +8,7 @@ export const HomeView = () => {
     <main className="mt-20">
       <Hero
         title="Welcome to Aurhem"
-        description="Aurhem is a global investment platform driving transformative growth
-            across critical sectors—Infrastructure, Financial Services, and Clean Energy. We partner with governments, institutions,
-            and communities to develop integrated ecosystems that power economic
-            progress and social equity."
+        description="Aurhem is a free zone company registered with Ras Al Khaimah Economic Zone Government of Ras Al Khaimah (RAKEZ), United Arab Emirates. with specific focus on Trading, distribution and management of all kinds of Infrastructure, Mining , Construction, Earth Moving and Energy Equipments. Our teams provide an end-to-end trading solution to our customers."
         backgroundImages={[
           "https://images.unsplash.com/photo-1762291270825-0a49ab389d05?w=1920&q=80",
           "https://images.unsplash.com/photo-1646427154221-a4b57a921906?w=1920&q=80",
