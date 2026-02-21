@@ -35,7 +35,7 @@ export const InitiativeSection = () => {
           <div className="relative group rounded-xl overflow-hidden shadow-xl">
             <img
               src="https://images.unsplash.com/photo-1640184713828-e48c36a3ded8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
-              alt="Gyan Group industrial facility in Dubai - modern infrastructure, energy plant, logistics hub"
+              alt="industrial facility in Dubai - modern infrastructure, energy plant, logistics hub"
               className="w-full h-80 object-cover transition-transform duration-500 group-hover:scale-105"
               loading="lazy"
             />
