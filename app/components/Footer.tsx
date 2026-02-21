@@ -20,11 +20,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-pewter leading-relaxed text-sm">
-              Aurhem is a global investing vehicle focusing on Infrastructure,
-              Financial Services. Infrastructure
-              Development such as Roads, Ports, Telecom, Power, Industrial Parks
-              and SEZs, Water, Rural IT Infrastructure, Mass Holdings,
-              Townships, Hospitality and Healthcare.
+              Aurhem is a free zone company registered with Ras Al Khaimah Economic Zone Government of Ras Al Khaimah (RAKEZ), United Arab Emirates. with specific focus on Trading, distribution and management of all kinds of Infrastructure, Mining , Construction, Earth Moving and Energy Equipments. Our teams provide an end-to-end trading solution to our customers.
             </p>
           </div>
 
@@ -87,7 +83,7 @@ const Footer = () => {
               </h4>
               <div className="flex gap-4">
                 <a
-                  href="https://api.whatsapp.com/send/?phone=+971505947030 &text&type=phone_number&app_absent=0"
+                  href="https://api.whatsapp.com/send/?phone=+971505803065&text&type=phone_number&app_absent=0"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-teal-green/10 flex items-center justify-center hover:bg-teal-green hover:scale-110 transition-all duration-300 group"
