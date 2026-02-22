@@ -23,13 +23,6 @@ export const services = [
     icon: <Network className="w-8 h-8" />,
   },
   {
-    title: "Financial Services",
-    description:
-      "Inclusive financial solutions, investment vehicles, and capital structuring to support large-scale development and SME growth.",
-    icon: <Landmark className="w-8 h-8" />,
-  },
-  
-  {
     title: "Energy",
     description:
       "Renewable and conventional power generation, transmission, and storage accelerating the transition to sustainable energy systems.",
