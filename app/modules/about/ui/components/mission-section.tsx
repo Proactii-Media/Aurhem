@@ -14,35 +14,7 @@ export const MissionSection = () => {
             Redefining Infrastructure for a Connected World
           </h2>
           <p className="text-lg text-[#4A3A4A] leading-relaxed">
-           Aurhem Trading and Consulting FZ-LLC
-
-Incorporated in the Ras Al Khaimah Economic Zone (RAKEZ), UAE, Aurhem Trading and Consulting FZ-LLC is an international trading and consultancy company delivering reliable solutions across construction equipment, spare parts, commercial intelligence, and professional development.
-
-          </p>
-          <p className="text-lg text-[#4A3A4A] leading-relaxed">
-            We work with clients across select European countries, the United Kingdom, the African continent, India, and additional markets based on demand.
-          </p>
-
-<p className="text-lg text-[#4A3A4A] leading-relaxed">
-
-<b>What We Do</b><br/>
-
-1) Construction Equipment & Machinery Trading <br/>
-We source and supply high-quality construction equipment and heavy machinery tailored to project requirements worldwide. <br/><br/>
-
-2) Spare Parts – Equipment, Trucks & Attachments <br/>
-We provide genuine and aftermarket spare parts ensuring operational continuity and reduced downtime.<br/><br/>
-
-3) Commercial Information Services<br/>
-We offer structured commercial insights to support strategic trade and sourcing decisions.<br/><br/>
-
-4) Consultancy <br/>
-– Leadership & Wellbeing Development<br/>
-Focused on lifestyle enhancement, leadership development, and overall personal growth.<br/><br/>
-
-5) General Trading<br/>
-Flexible, client-driven trading solutions across diversified product categories.<br/><br/>
-
+          Aurhem is a free zone company registered with Ras Al Khaimah Economic Zone Government of Ras Al Khaimah (RAKEZ), United Arab Emirates. with specific focus on Trading, distribution and management of all kinds of Infrastructure, Mining , Construction, Earth Moving and Energy Equipments. Our teams provide an end-to-end trading solution to our customers.
 </p>
           
           <div className="pt-4">
