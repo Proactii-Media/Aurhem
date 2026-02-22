@@ -49,7 +49,7 @@ export const ContactView = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-plum mb-1">Email Us</h3>
-                  <p className="text-[#4A3A4A]">info@aurhem.com</p>
+                  <p className="text-[#4A3A4A]">sales@aurhem.com</p>
                   
                 </div>
               </div>
