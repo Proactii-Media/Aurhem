@@ -68,10 +68,10 @@ const Footer = () => {
               <li className="flex gap-3 text-pewter text-sm">
                 <Mail className="w-5 h-5 text-teal-green shrink-0" />
                 <a
-                  href="mailto:info@aurhem.com"
+                  href="mailto:sals@aurhem.com"
                   className="hover:text-turquoise-blue transition-colors duration-200"
                 >
-                  info@aurhem.com
+                  sales@aurhem.com
                 </a>
               </li>
             </ul>
