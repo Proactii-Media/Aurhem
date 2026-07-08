@@ -14,7 +14,14 @@ export const MissionSection = () => {
             Redefining Infrastructure for a Connected World
           </h2>
           <p className="text-lg text-[#4A3A4A] leading-relaxed">
-          Aurhem is a free zone company registered with Ras Al Khaimah Economic Zone Government of Ras Al Khaimah (RAKEZ), United Arab Emirates. with specific focus on Trading, distribution and management of all kinds of Infrastructure, Mining , Construction, Earth Moving and Energy Equipments. Our teams provide an end-to-end trading solution to our customers.
+          Aurhem’s activities include:
+International trading of construction, mining, industrial, and heavy equipment.
+Procurement and sourcing of new and used machinery from global manufacturers and authorized suppliers.
+Consulting services relating to equipment selection, procurement strategy, supplier identification, and project requirements.
+Coordination of import, export, customs documentation, freight forwarding, and logistics.
+Facilitation of transactions between manufacturers, suppliers, contractors, mining companies, and end users.
+Supply of spare parts, accessories, and related industrial products where required.
+After-sales coordination, technical support, and supplier liaison.
 </p>
           
           <div className="pt-4">
@@ -23,7 +30,9 @@ export const MissionSection = () => {
               className="bg-plum hover:bg-dusty-rose text-tertiary px-8 py-3 rounded-md text-base font-semibold transition-colors duration-300 shadow-md hover:shadow-lg"
             >
               <Link to="/contact">
-                Join Our Mission <ArrowRight className="ml-2 w-4 h-4" />
+                Find Out More...
+
+                <ArrowRight className="ml-2 w-4 h-4" />
               </Link>
             </Button>
           </div>

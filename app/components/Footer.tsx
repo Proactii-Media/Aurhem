@@ -98,7 +98,7 @@ const Footer = () => {
                   </svg>
                 </a>
                 <a
-                  href="#"
+                  href="https://www.linkedin.com/company/aurhem"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-10 h-10 rounded-full bg-teal-green/10 flex items-center justify-center hover:bg-teal-green hover:scale-110 transition-all duration-300 group"
