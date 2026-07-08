@@ -75,85 +75,86 @@ with specific focus on Trading, distribution and management of all kinds of Infr
 Our teams provide an end-to-end trading solution to our customers.
             </p>
 
-            <p className="text-lg text-[#4A3A4A] leading-relaxed">
-              Our portfolio spans strategic assets including highways, ports,
-              telecom networks, renewable energy plants, industrial corridors,
-              Special Economic Zones (SEZs), water infrastructure, rural digital
-              access, hospitality, healthcare facilities, and scalable financial
-              solutions. With a long-term vision and local-first approach, we
-              turn capital into lasting impact.
-            </p>
-
-            <div className="pt-4">
-              <Button
-                asChild
-                className="bg-plum hover:bg-dusty-rose text-tertiary px-8 py-3 rounded-md text-base font-semibold transition-colors duration-300 shadow-md hover:shadow-lg"
-              >
-                <Link to="/about">Discover Our Vision</Link>
-              </Button>
-            </div>
+        
           </div>
         </div>
       </section>
 
       <section
-        className="py-16 md:py-24 px-4 sm:px-6 lg:px-8 bg-white"
-        aria-labelledby="services-heading"
+  className="py-16 md:py-24 px-4 sm:px-6 lg:px-8 bg-white"
+  aria-labelledby="focus-heading"
+>
+  <div className="max-w-7xl mx-auto">
+    {/* Header */}
+    <div className="text-center max-w-4xl mx-auto mb-16">
+      <h2
+        id="focus-heading"
+        className="text-3xl md:text-4xl lg:text-5xl font-bold text-plum mb-6"
       >
-        <div className="max-w-7xl mx-auto">
-          <div className="text-center mb-16">
-            <h2
-              id="services-heading"
-              className="text-3xl md:text-4xl lg:text-5xl font-bold text-plum mb-6"
-            >
-              Our Focus Areas
-            </h2>
-            <p className="text-lg text-[#4A3A4A] max-w-4xl mx-auto leading-relaxed">
-              We deploy capital with purpose building resilient assets that
-              drive economic growth, energy access, and inclusive development
-              across emerging markets.
-            </p>
-          </div>
+        Our Commitment
+      </h2>
 
-          {/* Core Sectors */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
-            {services.map((service, index) => (
-              <div
-                key={index}
-                className="bg-tertiary/40 p-6 rounded-xl border border-dusty-rose/20 transition-all duration-300 hover:shadow-md hover:bg-tertiary/60"
-              >
-                <div className="text-plum mb-4">{service.icon}</div>
-                <h3 className="text-xl font-bold text-plum mb-3">
-                  {service.title}
-                </h3>
-                <p className="text-[#4A3A4A] text-sm leading-relaxed">
-                  {service.description}
-                </p>
-              </div>
-            ))}
-          </div>
+      <p className="text-lg text-[#4A3A4A] leading-relaxed">
+        Aurhem works to create infrastructural and strategic development
+        through the supply and international trade of heavy machinery,
+        industrial tools, and construction equipment. We are committed to
+        delivering reliable solutions while building lasting relationships
+        through trust, collaboration, and exceptional service.
+      </p>
+    </div>
 
-          {/* Infrastructure Highlights */}
-          <div className="bg-plum/5 p-8 rounded-2xl border border-plum/10">
-            <h3 className="text-2xl font-bold text-plum text-center mb-6">
-              Infrastructure in Action
-            </h3>
-            <div className="flex flex-wrap justify-center gap-4">
-              {infrastructureHighlights.map((item, idx) => (
-                <div
-                  key={idx}
-                  className="flex items-center gap-2 bg-white/70 px-4 py-2 rounded-full border border-dusty-rose/30"
-                >
-                  <span className="text-dusty-rose">{item.icon}</span>
-                  <span className="text-sm font-medium text-[#4A3A4A]">
-                    {item.label}
-                  </span>
-                </div>
-              ))}
-            </div>
-          </div>
+    {/* Values */}
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div className="bg-tertiary/40 rounded-2xl p-8 border border-dusty-rose/20 hover:shadow-lg transition-all duration-300">
+        <div className="w-14 h-14 rounded-full bg-plum/10 flex items-center justify-center text-2xl mb-6">
+          🤝
         </div>
-      </section>
+
+        <h3 className="text-2xl font-bold text-plum mb-4">
+          Long-Term Relations
+        </h3>
+
+        <p className="text-[#4A3A4A] leading-relaxed">
+          Our customers are our highest priority. We take pride in building
+          lasting relationships, reflected by the trust of clients who continue
+          to place repeat orders with us.
+        </p>
+      </div>
+
+      <div className="bg-tertiary/40 rounded-2xl p-8 border border-dusty-rose/20 hover:shadow-lg transition-all duration-300">
+        <div className="w-14 h-14 rounded-full bg-plum/10 flex items-center justify-center text-2xl mb-6">
+          🛡️
+        </div>
+
+        <h3 className="text-2xl font-bold text-plum mb-4">
+          Trust
+        </h3>
+
+        <p className="text-[#4A3A4A] leading-relaxed">
+          We believe in traditional values of transparency, integrity, and
+          trustworthiness. Every partnership is built on honesty, reliability,
+          and mutual respect.
+        </p>
+      </div>
+
+      <div className="bg-tertiary/40 rounded-2xl p-8 border border-dusty-rose/20 hover:shadow-lg transition-all duration-300">
+        <div className="w-14 h-14 rounded-full bg-plum/10 flex items-center justify-center text-2xl mb-6">
+          🌍
+        </div>
+
+        <h3 className="text-2xl font-bold text-plum mb-4">
+          Partnership
+        </h3>
+
+        <p className="text-[#4A3A4A] leading-relaxed">
+          We work alongside our customers to create a seamless experience,
+          offering practical problem-solving, international procurement, and
+          dependable delivery solutions.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
     </main>
   );
 };

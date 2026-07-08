@@ -1,6 +1,5 @@
 import { About } from "../components/about";
 import { Hero } from "../components/hero";
-import { InitiativeSection } from "../components/initiative";
 import { Contact } from "../components/contact";
 
 export const HomeView = () => {
@@ -17,7 +16,6 @@ export const HomeView = () => {
         ]}
       />
       <About />
-      <InitiativeSection />
       <Contact />
     </main>
   );
